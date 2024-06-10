@@ -28,7 +28,7 @@ This is an instruction on how to set up this program locally.
 
 4. Wait for the loading.
 
-5. Open the menu by pressing [F12].
+5. Open the menu by pressing TAB
 
 6. Done!
 
